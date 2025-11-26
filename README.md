@@ -61,6 +61,3 @@ The frontend runs on `http://localhost:5173` by default (Vite).
 
 ---
 
-
-**Q:** Where to change the NeonMatrix theme?
-**A:** `frontend/src/styles/theme-neonmatrix.*` — contains color tokens, Tailwind config overrides and global CSS.
