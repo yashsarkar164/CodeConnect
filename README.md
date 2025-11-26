@@ -1,4 +1,4 @@
-**CodeConnect** — a polished, neon-themed interview platform for 1-on-1 live coding: editor + video + chat + secure code execution. This README contains everything you need to run, develop, test, and deploy the full stack (frontend + backend).
+**CodeConnect**
 ---
 
 # 🔐 Environment — `.env` examples
